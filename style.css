@@ -1,8 +1,7 @@
   body {
-    margin-top: 46px;
     min-width: 300px;
-    background-color: #f5f5f5;
     margin: 0;
+    background-color: #f5f5f5;
   }
   .Menu {
     background-color: white;
@@ -23,7 +22,7 @@
   .rightMenu{
     float: right;
     margin: 0;
-    margin-right: 2%;
+    margin-right: 1%;
     padding: 0;
   }
   .img{
@@ -47,6 +46,7 @@
     display:none;
   }
   .hat_userpic{
+    margin-top: 46px;
     width: 100%;
   }
   .hat{
